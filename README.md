@@ -62,9 +62,17 @@ Unity3D, [Leap Motion](https://namu.wiki/w/Leap%20Motion)
 </div>
 <div>
   <h3>손 동작 제어 추가 & 튜토리얼 추가 작업</h3>
-  기존 게임의 버튼을 터치가 아닌 손동작으로 기능을 할 수 있도록 작업 하면서 이를 알려주기 위해서 게임 실행시 게임의 이해를 돕기 위해 튜토리얼을 추가해 따라 해보는 형식으로 추가 제작 되었다 
+  기존 게임의 버튼을 터치가 아닌 손동작으로 기능을 할 수 있도록 작업 하면서 이를 알려주기 위해서<br>
+  게임 실행시 게임의 이해를 돕기 위해 튜토리얼을 추가해 따라 해보는 형식으로 추가 제작 되었다 
 <img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/7c3e4f92-e7f0-45cb-b734-e83618256053" width="640" height="360">
 <img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/7e2c5acd-0e02-4d69-b2fa-713eb976a7c7" width="640" height="360">
 </div>
+
+<h2>유튜브 홍보 영상 링크</h2>
+
+[![보자마자Play리얼모션 시즌1 홍보영상](http://img.youtube.com/vi/wDnnUCvHxpY/0.jpg)](https://www.youtube.com/watch?v=wDnnUCvHxpY)
+[![보자마자Play리얼모션 시즌2 홍보영상](http://img.youtube.com/vi/ZHqRtNmgdR4/0.jpg)](https://www.youtube.com/watch?v=ZHqRtNmgdR4)
+
+
 </div>
 

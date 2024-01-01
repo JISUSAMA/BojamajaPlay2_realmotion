@@ -1,6 +1,6 @@
-<div>>
-  
-# BojamajaPlay2_realmotion
+<div align='center'>
+
+# 보자마자 Play2 리얼모션 포트폴리오
 
 <img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/125c3732-520b-4b65-85d4-2ee29984a810" width="100%" height="100%">
 
